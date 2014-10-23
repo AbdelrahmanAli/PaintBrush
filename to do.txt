@@ -1,0 +1,38 @@
+//old bugs
+1-inhertance between circle and ellipse , square and rectangle
+2- clear redo when action performed // done
+ ----------------------
+2- line selection
+3- fill and strock
+4- right and isocesles 
+///////////////
+
+1-Plug-ins (Done)
+----------------
+2-Edit:
+=======	
+	(1) Move
+	(2) Delete
+	(3) Resize
+	
+	How:
+	====
+	1.Select the Object
+	
+	2.Make dotted rectangle 
+	around the shape for 
+	detecting & Small boxes 
+	for Resizing
+	
+	3.Move by dragging, 
+	Delete using button, 
+	or Resize by dragging 
+	at small boxes
+-------------------------------
+3- Save and Load:
+	- Save =>> XML and JSON 
+	format and user must 
+	choose where to save 
+	the file.
+	
+	- Load then Modify.
